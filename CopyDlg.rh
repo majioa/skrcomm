@@ -1,0 +1,28 @@
+/****************************************************************************
+
+
+copydlg.rh
+
+produced by Borland Resource Workshop
+
+
+*****************************************************************************/
+
+//#define DIALOG_3        3
+//#define COPYPROGRESS    101
+#define IDSTOP  1000
+//#define DIALOG_2        2
+//#define COPY_DIALOG     100
+#define IDTREE  1001
+#define IDPATH  1002
+#define IDCOPYMODEGROUP 1100
+#define IDWRITEGROUP    1101
+#define ID_SKIPEXISTS	1006
+#define ID_REFRESHOLD	1007
+#define ID_COPYDESCRIPTION	1010
+#define ID_ERASESOURCE	1011
+#define ID_VERIFYWRITING	1009
+#define ID_VERIFYFREE	1008
+#define ID_CONFIRMWRITE	1005
+#define ID_ADDTOEXISTS	1004
+#define ID_OVERWRITE	1003
